@@ -9,6 +9,6 @@
 <body>
     
 
-<script type=""></script>
+<script type="text/javasript" src="asset/js/bootstrap.min.js"></script>
 </body>
 </html>
