@@ -15,5 +15,4 @@ if ($sql) {
    location.href='../login.php';
    </script>";
 }
-
 ?>
